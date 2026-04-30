@@ -1,1 +1,3 @@
-# Implemented Features
+## T-1: User login for pilots
+This task involves creating a login form component for pilots, including validation and error handling.
+**Status: Implemented**
